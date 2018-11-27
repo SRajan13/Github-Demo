@@ -3,5 +3,7 @@ public class githubdemo{
 
 	System.out.println("Hello World");
 	System.out.print("hello");
+	System.out.print("hello");
+
 	}
 }
